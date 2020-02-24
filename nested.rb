@@ -17,6 +17,7 @@ def hopper
      }
 
 puts programmer_hash[:grace_hopper][:known_for]
+puts programmer_hash[:grace_hopper][:languages]
 
 end
 
